@@ -1,0 +1,15 @@
+{
+  "name": "simplecalculator",
+  "version": "1.0.1",
+  "description": "calculator",
+  "main": "lab3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anuroop",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.5.0",
+    "nodemon": "^1.11.0"
+  }
+}
